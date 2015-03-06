@@ -1,7 +1,7 @@
 {
   "name": "angularslick",
-  "version": "0.0.0",
-  "dependencies": {},
+  "version": "0.1.18",
+  "main": "dist/slick.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.4.0",
